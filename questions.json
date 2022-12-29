@@ -3,12 +3,12 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
+		            "question" : "في لعبة الأطفال ، يتم مطاردة المشاركين من قبل شخص معين \"It\"?",
 		            "content" : [
-		                "Tag",
-		                "Simon Says",
-		                "Charades",
-		                "Hopscotch"
+		                "تاق",
+		                "قال سيمون",
+		                "خارديس",
+		                "هوبكور"
 		            ],
 		            "correct" : 0
 		        },
